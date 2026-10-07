@@ -1,9 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Macotate Updates</title>
     <link>https://github.com/izzll/macotate-updates</link>
     <description>Macotate application updates</description>
+    <item>
+      <title>Macotate 1.0.1</title>
+      <pubDate>Wed, 07 Oct 2026 15:37:33 GMT</pubDate>
+      <link>https://github.com/izzll/macotate-updates/releases/tag/v1.0.1</link>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Macotate 1.0.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved document pasting: preserve formatting within the same document and match surrounding text when pasting from elsewhere.&lt;/li&gt;
+&lt;li&gt;New Document Editor settings for fonts, pasting, spelling, padding lines and drawing outside pages.&lt;/li&gt;
+&lt;li&gt;Improved undo support for document edits, PDF changes and AI composer text.&lt;/li&gt;
+&lt;li&gt;Improved toolbar activation, compact/document transitions and canvas ownership across separate Spaces.&lt;/li&gt;
+&lt;li&gt;Updated AI assistant, diagram editing and colour requests.&lt;/li&gt;
+&lt;li&gt;Diagrams use pastel fills and readable labels, with a 10% opaque white preview background.&lt;/li&gt;
+&lt;li&gt;AI prompt panels have larger move headers and keep keyboard focus when moved.&lt;/li&gt;
+&lt;li&gt;Diagram prompts remain visible during generation; Return submits follow-up changes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://github.com/izzll/macotate-updates/releases/download/v1.0.1/Macotate-1.0.1.zip" type="application/octet-stream" length="40928293" sparkle:edSignature="4rrTf0n6QN0Ab/sgHTVeJeV9c4cJ//3Likocomy/fTW7MUl3H7+FPcsuDXsYK5sbUH4dd0ud2tL+X5jibonNBA==" />
+    </item>
   </channel>
 </rss>
