@@ -12,7 +12,7 @@
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>&lt;h2&gt;Macotate 1.0.2&lt;/h2&gt;&lt;p&gt;Beta usage statistics help improve Macotate. Statistics are enabled by default for the beta; turn them off in Settings → General → Privacy. Existing opt-outs are respected. Statistics exclude screen contents, drawings, documents and AI prompts.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/izzll/macotate-updates/releases/download/v1.0.2/Macotate-1.0.2.dmg" type="application/octet-stream" length="41106739" sparkle:edSignature="8AWGfyuSW9hD6x9pIZGKiuQymzo6estUPHIZIepAzll5LAmejNTgnvmfACtfAP0LDZHAVeFUlc30mx+PGwe1Dw==" />
+      <enclosure url="https://github.com/izzll/macotate-updates/releases/download/v1.0.2/Macotate-1.0.2.dmg" type="application/octet-stream" length="39247531" sparkle:edSignature="jVBxulQJZZ8D+w8jW6jf/3hhdi1giivsvIM5wF9GL0qtq7PR8lXcQzMxY0+IK0jNF2xzFFEBIgTePrzIl31EDA==" />
     </item>
     <item>
       <title>Macotate 1.0.1</title>
