@@ -5,6 +5,16 @@
     <link>https://github.com/izzll/macotate-updates</link>
     <description>Macotate application updates</description>
     <item>
+      <title>Macotate 1.0.3</title>
+      <pubDate>Sat, 10 Oct 2026 21:36:03 GMT</pubDate>
+      <link>https://github.com/izzll/macotate-updates/releases/tag/v1.0.3</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Macotate 1.0.3&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Added an Activate Macotate shortcut to show and focus the app, including in menu bar mode. Command-Q is now reserved for quitting.&lt;/li&gt;&lt;li&gt;Improved saving when quitting, including Dedicated Canvas, desktop canvases and Quick Notes. If saving fails, Macotate stays open so you can retry.&lt;/li&gt;&lt;li&gt;Improved recovery of saved canvases missing from the library index.&lt;/li&gt;&lt;li&gt;Fixed toolbar clicks not activating Macotate in menu bar mode.&lt;/li&gt;&lt;li&gt;Fixed toolbar interaction pulling users back to a previous Space in separate desktop mode.&lt;/li&gt;&lt;li&gt;Stopped drawing tools from sending Settings behind other windows.&lt;/li&gt;&lt;li&gt;Moved OCR processing off the main thread and added faster recognition on macOS 27 to avoid lengthy model-startup delays.&lt;/li&gt;&lt;li&gt;Disabled Accessibility-dependent input and device controls until permission is granted, preserving saved preferences.&lt;/li&gt;&lt;li&gt;Added a direct Screen Recording permission button alongside Circle to Search.&lt;/li&gt;&lt;li&gt;Improved Settings layout and warning alignment; shortcut-interference warnings appear only when Accessibility is granted.&lt;/li&gt;&lt;li&gt;Added Maintenance → App Management for analytics, canvas storage usage and bug reports.&lt;/li&gt;&lt;li&gt;Canvas Storage shows total usage and individual canvas sizes.&lt;/li&gt;&lt;li&gt;Bug reports support attachments and an optional diagnostic summary, and open in your email app for sending.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/izzll/macotate-updates/releases/download/v1.0.3/Macotate-1.0.3.dmg" type="application/octet-stream" length="39473134" sparkle:edSignature="ApVc91TReuQDJi6hFMJRBdyLT1EehNEY0b+KSUXKgAGHyx6yF19p3FR8wwY4uqoGI3KCqq5UYT5ym6zgvnG8CA==" />
+    </item>
+    <item>
       <title>Macotate 1.0.2</title>
       <pubDate>Thu, 08 Oct 2026 13:28:00 GMT</pubDate>
       <link>https://github.com/izzll/macotate-updates/releases/tag/v1.0.2</link>
